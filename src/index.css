@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,800;1,200;1,700&display=swap');
+*{
+  font-family : 'Poppins';
+}
+
+body{
+ background-image : linear-gradient(to right, rgb(252, 129, 215), rgb(132, 220, 250)); 
+}
+
+button{
+  cursor : pointer;
+  border : none;
+}
+
+input{
+  border : none;
+  outline: none;
+}
